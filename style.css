@@ -1,0 +1,66 @@
+body{
+    background-color: #000!important;
+}
+
+.vk-container{
+    margin-top: 35px!important;
+    padding: 0 10px;
+    font-family: tahoma,arial,verdana,sans-serif,Lucida Sans;
+    font-size: 12px;
+    line-height: 17px;
+    color: black;
+    text-decoration: none;
+    background: #fff;
+}
+
+.vk-header {
+    background: #4267b2 none repeat scroll 0% 0%;
+    padding: 4px 4px 4px 6px;
+    margin-bottom: 10px;
+}
+
+.vk-logo {
+    background: transparent url(style.css) no-repeat scroll 0% 0%;
+    width: 16px;
+    height: 16px;
+    float: right;
+    margin-top: -1px;
+}
+
+.vk-header-text {
+    padding: 2px 3px 1px;
+    line-height: 100%;
+    color: #fff;
+}
+
+.vk-comment, .vk-comment-load {
+    margin-bottom: 15px;
+    position: relative;
+    border-bottom: 1px solid rgb(218, 225, 232);
+    padding-bottom: 15px;
+}
+
+.vk-link {
+    text-decoration: none ! important;
+    cursor: pointer ! important;
+}
+
+.vk-comment-name {
+    color: rgb(43, 88, 122);
+    font-weight: bold;
+    font-size: 12px;
+}
+.vk-comment-text {
+    color: rgb(0, 0, 0);
+}
+
+.vk-comment-date {
+    color: rgb(153, 153, 153);
+}
+
+.vk-avatar img {
+    float: left;
+    margin: 0 10px 0 2px;
+    cursor: pointer;
+    width: 50px;
+}
